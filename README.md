@@ -46,13 +46,18 @@ Overall the election audit script "PyPoll" that we have created is powerful enou
 - We could add a user input for the purpose of inputting the files into the script.
 <img src="https://github.com/mubeenkh4u/RBC-Module-3-Election-Analysis/blob/main/Images/User_Input.png">
 - We can further modify the script to work for different types of election.	This would be utilizing the listing of each individuals vote for the type of election and then tallying it for each individual for that particular election type.
+
 <table align="center">
   <tr>
-    <th>Terminal Output</th>
-    <th>Output to the Text File</th>
+  <th>Candidate Name can be modified</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/mubeenkh4u/RBC-Module-3-Election-Analysis/blob/main/Images/Change_Candidate_Input.png"></td>
+    <td><img src="https://github.com/mubeenkh4u/RBC-Module-3-Election-Analysis/blob/main/Images/Change_Candidate_Input.png"></th>
+  </tr>
+  <tr>
+    <th>County Name can be modified to use City or State</th>
+  </tr>
+  <tr>
     <td><img src="https://github.com/mubeenkh4u/RBC-Module-3-Election-Analysis/blob/main/Images/Change_County_Input.png"></td>
   </tr>
 </table>
