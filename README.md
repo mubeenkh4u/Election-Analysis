@@ -45,6 +45,7 @@ Here are screenshots of the results printed out in the terminal and the output f
 Overall the election audit script "PyPoll" that we have created is powerful enough in itself. Though we could modify it for future elections in the following ways:
 - We could add a user input for the purpose of inputting the files into the script.
 <img src="https://github.com/mubeenkh4u/RBC-Module-3-Election-Analysis/blob/main/Images/User_Input.png">
+
 - We can further modify the script to work for different types of election.	This would be utilizing the listing of each individuals vote for the type of election and then tallying it for each individual for that particular election type.
 
 <table align="center">
