@@ -53,12 +53,12 @@ Overall the election audit script "PyPoll" that we have created is powerful enou
   <th>Candidate Name can be modified</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/mubeenkh4u/RBC-Module-3-Election-Analysis/blob/main/Images/Change_Candidate_Input.png"></th>
+    <th><img src="https://github.com/mubeenkh4u/RBC-Module-3-Election-Analysis/blob/main/Images/Change_Candidate_Input.png"></th>
   </tr>
   <tr>
     <th>County Name can be modified to use City or State</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/mubeenkh4u/RBC-Module-3-Election-Analysis/blob/main/Images/Change_County_Input.png"></td>
+    <th><img src="https://github.com/mubeenkh4u/RBC-Module-3-Election-Analysis/blob/main/Images/Change_County_Input.png"></th>
   </tr>
 </table>
